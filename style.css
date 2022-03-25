@@ -1,0 +1,12 @@
+.home-page {
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(rgba(4, 15, 40, 0.096), rgba(4, 15, 40, .7)), url(background.jpg) center center no-repeat;
+    background-size: cover;
+}
+.build{
+    justify-content: space-between;
+}
