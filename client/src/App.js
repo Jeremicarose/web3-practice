@@ -248,7 +248,7 @@ class App extends Component {
                     </h6>
                     <a
                       class="btn btn-primary px-5 btn-sm bg-dark text-white"
-                      href="/five"
+                      href=""
                       >Buy</a
                     >
                   </div>
